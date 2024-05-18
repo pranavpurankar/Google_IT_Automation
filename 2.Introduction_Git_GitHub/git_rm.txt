@@ -1,2 +1,0 @@
-This file is created for testing purpose only. The amount of work needed to become a software
-engineer is way harder. 
