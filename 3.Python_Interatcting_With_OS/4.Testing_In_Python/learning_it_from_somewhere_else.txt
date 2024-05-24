@@ -1,0 +1,4 @@
+Tesing is super important concept in the development. I am learning it from somewhere else.
+This follo along tutorials are just for the purpose of practising. I am getting familiar
+with all the concepts which are necessary for the automation. From now I will only update
+git repo with bash module. I am doing it in the fast forward mode.
