@@ -1,0 +1,25 @@
+What is redirection?
+=> The process of sending a stream to a different destination.
+
+What is > greater than and >> double greater than operator?
+=> The single operator > will overwrite the contents in the file.
+   While the double greater than operator >> will append the output to the next line.
+   That means it won't change the existing content of the file.
+
+What is pipes?
+=> Connect the output of one program to the input of another in order to pass data between
+   program.
+
+
+What is signaling processes?
+=> We might have a program that starts a background process and wants it to terminate after 
+   a timeout. One way of communicating this is throught the pipelines we learned earlier.
+   Another way of communicating is though the use of signals.
+
+What are signals?
+=> Signals are tokens delivered to running processes to indicate a desired action. Using
+   signals. Using signals, we can tell a program that we want it to pause or terminate. We
+   can also cause it to reload its configuration, or to close all open files. Knowing how
+   to send these signals lets us interact with processess and have more control over how 
+   they behave. Ex_ ping command
+

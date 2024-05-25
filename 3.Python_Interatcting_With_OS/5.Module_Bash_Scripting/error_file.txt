@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/prns/Downloads/Google_IT_Automation/3.Python_Interatcting_With_OS/5.Module_Bash_Scripting/./1.stderr.py", line 5, in <module>
+    raise ValueError("Now we generate an error to STDERR")
+ValueError: Now we generate an error to STDERR
