@@ -1,0 +1,7 @@
+Imagine that you're migrating your company's website from one web server software
+to another. Your web content is stored in a bunch of files that all end in 
+uppercase HTM, and the new software requires that they all end in lowercase HTML,
+disaster. You can manually rename them one by one using the MV command, but that
+could get really old really fast. You'd likely end up making mistakes after the
+first few commands. Instead, you could do the same thing with a short Bash script.
+
